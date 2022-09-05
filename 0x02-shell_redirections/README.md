@@ -10,3 +10,4 @@ script that writes into the file ls_cwd_content the result of the command ls -la
 script that counts the number of directories and sub-directories in the current directory.
 script that displays the 10 newest files in the current directory
 script that takes a list of words as input and prints only words that appear exactly once
+Display lines containing the pattern “root” from the file /etc/passwd
